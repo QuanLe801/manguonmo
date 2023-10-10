@@ -4,9 +4,12 @@ import styles from './styles.module.css';
 
 function BlogListingContainer() {
   return (
-    <>
+    <div className={styles.blogListingWrapper}>
       <CardBlogItem />
-    </>
+      <CardBlogItem />
+      <CardBlogItem />
+      <CardBlogItem />
+    </div>
   );
 }
 
