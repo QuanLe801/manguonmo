@@ -1,0 +1,26 @@
+.img1{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.text1{
+    
+}
+
+.box{
+    padding: 10px;
+    background-color: rgb(87, 155, 182);
+    display:inline-block;
+    border-radius:10px ;
+}
+.page{
+    
+}
+.comment{
+    padding: 10px 7px 10px 7px;
+    background-color: rgb(184, 184, 184);
+    border-radius: 10px;
+}
